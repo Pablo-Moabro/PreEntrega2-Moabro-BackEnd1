@@ -1,0 +1,123 @@
+[
+	{
+		"id": 1,
+		"title": "Ibanez AZ240TF Prestige",
+		"description": "6 String electric guitar",
+		"code": "AAA001",
+		"price": "$1350",
+		"status": true,
+		"stock": 5,
+		"category": "Electric guitar",
+		"thumbnail": "test"
+	},
+	{
+		"id": 2,
+		"title": "Ibanez AZ2204NW Prestige",
+		"description": "6 String electric guitar",
+		"code": "AAA002",
+		"price": "$1400",
+		"status": true,
+		"stock": 5,
+		"category": "Electric guitar",
+		"thumbnail": "test"
+	},
+	{
+		"id": 3,
+		"title": "Ibanez RG8870",
+		"description": "6 String electric guitar",
+		"code": "AAA003",
+		"price": "$700",
+		"status": true,
+		"stock": 8,
+		"category": "Electric guitar",
+		"thumbnail": "test"
+	},
+	{
+		"id": 4,
+		"title": "Ibanez RG5121ET",
+		"description": "6 String electric guitar",
+		"code": "AAA004",
+		"price": "$750",
+		"status": true,
+		"stock": 6,
+		"category": "Electric guitar",
+		"thumbnail": "test"
+	},
+	{
+		"id": 5,
+		"title": "Ibanez RG9PB",
+		"description": "9 String electric guitar",
+		"code": "AAA005",
+		"price": "$1900",
+		"status": true,
+		"stock": 1,
+		"category": "Electric guitar",
+		"thumbnail": "test"
+	},
+	{
+		"id": 6,
+		"title": "Ibanez XPTB620",
+		"description": "6 String electric guitar",
+		"code": "AAA006",
+		"price": "$950",
+		"status": true,
+		"stock": 3,
+		"category": "Electric guitar",
+		"thumbnail": "test"
+	},
+	{
+		"id": 7,
+		"title": "Ibanez ICTB721",
+		"description": "7 String electric guitar",
+		"code": "AAA007",
+		"price": "$950",
+		"status": true,
+		"stock": 2,
+		"category": "Electric guitar",
+		"thumbnail": "test"
+	},
+	{
+		"id": 8,
+		"title": "Ibanez ArtWood AW54",
+		"description": "6 String acustic guitar",
+		"code": "AAA008",
+		"price": "$600",
+		"status": true,
+		"stock": 3,
+		"category": "Acustic guitar",
+		"thumbnail": "test"
+	},
+	{
+		"id": 9,
+		"title": "Ibanez ArtWood AW54JR",
+		"description": "6 String acustic guitar",
+		"code": "AAA009",
+		"price": "$625",
+		"status": true,
+		"stock": 2,
+		"category": "Acustic guitar",
+		"thumbnail": "test"
+	},
+	{
+		"id": 10,
+		"title": "Ibanez ArtWood AC340L",
+		"description": "6 String acustic guitar",
+		"code": "AAA010",
+		"price": "$675",
+		"status": true,
+		"stock": 1,
+		"category": "Acustic guitar",
+		"thumbnail": "test"
+	},
+	{
+		"id": 11,
+		"title": "Ibanez",
+		"description": "Agregada desde el Form",
+		"code": "AAA011",
+		"price": "500",
+		"status": true,
+		"stock": 1,
+		"category": "Cosmic Guitar",
+		"thumbnail": null
+	}
+]
